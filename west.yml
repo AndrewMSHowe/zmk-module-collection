@@ -1,4 +1,10 @@
 manifest:
+  group-filter: [-placeholder]
+  projects:
+    - name: zmk-module-placeholder
+      url: git@github.com:Nick-Munnich/zmk-module-template.git
+      revision: main
+      groups: [placeholder]
   self:
     import:
       - behaviors
