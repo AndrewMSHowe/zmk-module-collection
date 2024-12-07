@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: urob
+      url-base: https://github.com/urob/
+  projects:
+    - name: zmk-behavior-auto-layer
+      remote: urob
+      repo-path: zmk-auto-layer
+      revision: 56604f66e08422e9ad17e2604d039013cb1dc469

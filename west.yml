@@ -1,0 +1,9 @@
+manifest:
+  self:
+    import:
+      - behaviors
+      - components
+      - drivers
+      - features
+      - keyboards
+      - vfx

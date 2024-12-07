@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: urob
+      url-base: https://github.com/urob/
+  projects:
+    - name: zmk-behavior-tri-state
+      remote: urob
+      repo-path: zmk-tri-state
+      revision: 6179f241b72118c82f67b7bcc17c96723badb869

@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: duckyb
+      url-base: https://github.com/duckyb/
+  projects:
+    - name: zmk-keyboards-urchin
+      remote: duckyb
+      repo-path: urchin-zmk-module
+      revision: a3ab64fa7779f82675695f3d7d17f705f840da25

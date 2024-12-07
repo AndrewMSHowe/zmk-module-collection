@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: urob
+      url-base: https://github.com/urob/
+  projects:
+    - name: zmk-feature-keymap-helpers
+      remote: urob
+      repo-path: zmk-helpers
+      revision: 6f1beff8af80d6071da567fa2bbf583c1168b07e

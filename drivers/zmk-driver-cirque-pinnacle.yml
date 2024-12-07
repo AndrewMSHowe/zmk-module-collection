@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: petejohanson
+      url-base: https://github.com/petejohanson/
+  projects:
+    - name: zmk-driver-cirque-pinnacle
+      remote: petejohanson
+      repo-path: cirque-input-module
+      revision: 9dd4178fbb92106562c81256faebd1ac1988e991

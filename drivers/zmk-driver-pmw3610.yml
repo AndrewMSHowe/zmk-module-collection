@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: sadekbaroudi
+      url-base: https://github.com/sadekbaroudi/
+  projects:
+    - name: zmk-driver-pmw3610
+      remote: sadekbaroudi
+      repo-path: zmk-pmw3610-driver
+      revision: 3cf9e9f57060f16fee87fd27a50350a1b3785dbc
