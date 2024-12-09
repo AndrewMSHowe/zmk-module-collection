@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: petejohanson
+      url-base: https://github.com/petejohanson/
+  projects:
+    - name: zmk-keyboards-revxlp
+      remote: petejohanson
+      repo-path: revxlp-module
+      revision: 383947c3005f1d5b47b207edbfb605720c41d1af

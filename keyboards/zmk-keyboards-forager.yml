@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: carrefinho                         
+      url-base: https://github.com/carrefinho    
+  projects:
+    - name: zmk-keyboards-forager
+      repo-path: forager-zmk-module                  
+      remote: carrefinho                       
+      revision: 3cafe6b7b26d7b538949e138fc00a148def4b2ed                           

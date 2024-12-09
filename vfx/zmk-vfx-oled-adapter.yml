@@ -1,0 +1,8 @@
+manifest:
+  remotes:
+    - name: mctechnology17
+      url-base: https://github.com/mctechnology17
+  projects:
+    - name: zmk-oled-adapter
+      remote: mctechnology17
+      revision: 9b862f63010cbcb5f5ad3d96bc9156099bf560ba

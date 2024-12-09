@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: caksoylar  
+      url-base: https://github.com/caksoylar
+  projects:
+    - name: zmk-vfx-rgbled-widget
+      repo-path: zmk-rgbled-widget
+      remote: caksoylar
+      revision: f207117aaa4ecad343aed7b7a2c19bbd635f8a7e

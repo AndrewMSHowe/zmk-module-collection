@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: petejohanson
+      url-base: https://github.com/petejohanson
+  projects:
+    - name: zmk-driver-electro-capacitive-keys
+      remote: petejohanson
+      repo-path: ec-support-zmk-module
+      revision: 860a93a792ebe17c14c3112a198fcc7766bf995f

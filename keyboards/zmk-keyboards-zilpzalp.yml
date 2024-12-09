@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: kilipan
+      url-base: https://github.com/kilipan
+  projects:
+    - name: zmk-keyboards-zilpzalp
+      remote: kilipan
+      repo-path: zmk-keyboards-zilpzalp
+      revision: e27dfa9015b5a9b348e147a73e46a0f850c82bd0

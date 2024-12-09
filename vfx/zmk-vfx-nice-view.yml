@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: gpeye                         
+      url-base: https://github.com/GPeye  
+  projects:
+    - name: zmk-vfx-nice-view
+      repo-path: nice-view-mod               
+      remote: gpeye                   
+      revision: e996dcbd9cf956fbbef0d1df8b8ca862f624d0e1                   

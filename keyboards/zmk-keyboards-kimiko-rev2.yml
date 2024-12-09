@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: mayms
+      url-base: https://github.com/mayms
+  projects:
+    - name: zmk-keyboards-kimiko-rev2
+      remote: mayms
+      repo-path: kimiko-rev2-shield-module
+      revision: 5ddaeae2909484baa5e3dd1e1762b1079a316e90

@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: petejohanson
+      url-base: https://github.com/petejohanson
+  projects:
+    - name: zmk-driver-maxtouch
+      remote: petejohanson
+      repo-path: maxtouch-zephyr-module
+      revision: 3eec7681632932c0ef05f9ff0b5ec634af2dba36

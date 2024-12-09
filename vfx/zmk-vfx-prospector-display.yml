@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: carrefinho                        
+      url-base: https://github.com/carrefinho
+  projects:
+    - name: zmk-vfx-prospector-display
+      remote: carrefinho
+      repo-path: prospector-zmk-module
+      revision: 6f44d6308c2b898b1cdef9ebcab82b53de759a5a

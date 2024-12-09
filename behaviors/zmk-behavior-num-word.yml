@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: dhruvinsh
+      url-base: https://github.com/dhruvinsh
+  projects:
+    - name: zmk-behavior-num-word
+      remote: dhruvinsh
+      repo-path: zmk-num-word
+      revision: 9dab86ea889dea19f59b6d77d704a527b9395e84

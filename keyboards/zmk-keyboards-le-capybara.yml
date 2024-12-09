@@ -1,0 +1,10 @@
+manifest:
+  remotes:
+    - name: petejohanson
+      url-base: https://github.com/petejohanson/
+  projects:
+    - name: zmk-keyboards-le-capybara
+      remote: petejohanson
+      repo-path: le-capybara-zmk-module
+      revision: 6663fcc6b590fbc691437ca48cd6d5320db596d4
+      import: config/west.yml

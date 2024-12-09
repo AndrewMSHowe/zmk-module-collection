@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: petejohanson
+      url-base: https://github.com/petejohanson/
+  projects:
+    - name: zmk-keyboards-blank-slate
+      remote: petejohanson
+      repo-path: blank-slate-zmk-module
+      revision: bf240a1006ad7cc0271d76fe6fc6090aac91deae
