@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: nazo6
+      url-base: https://github.com/nazo6
+  projects:
+    - name: zmk-keyboards-keyball
+      remote: nazo6
+      repo-path: zmk-module-keyball
+      revision: 950ba61473e6924250d9514a7c446eca4ffd8447

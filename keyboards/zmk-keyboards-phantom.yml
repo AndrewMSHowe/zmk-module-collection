@@ -1,0 +1,8 @@
+manifest:
+    remotes:
+    - name: jonnyirwin
+      url-base: https://github.com/jonnyirwin
+    projects:
+    - name: zmk-keyboards-phantom
+      remote: jonnyirwin
+      revision: 359ff5062b150e4bba2854db7866280717160bbf

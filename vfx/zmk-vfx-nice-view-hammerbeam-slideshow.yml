@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: gpeye
+      url-base: https://github.com/GPeye
+  projects:
+    - name: zmk-vfx-nice-view-hammerbeam-slideshow
+      repo-path: hammerbeam-slideshow
+      remote: gpeye
+      revision: 9c16436efa4c87d19e2e4558927969c7ddd5851d

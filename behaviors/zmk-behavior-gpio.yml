@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: awkannan
+      url-base: https://github.com/awkannan
+  projects:
+    - name: zmk-behavior-gpio
+      remote: awkannan
+      repo-path: zmk-gpio-behavior
+      revision: 174a055e3c991b28942be71706265bfab4672dd6

@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: lesshonor 
+      url-base: https://github.com/lesshonor
+  projects:
+    - name: zmk-keyboards-lesshonor-stewardship
+      repo-path: stewardship-zmk-module
+      remote: lesshonor
+      revision: 23d351307a65f61b84cf49f2f5fb5f3c17a4d778

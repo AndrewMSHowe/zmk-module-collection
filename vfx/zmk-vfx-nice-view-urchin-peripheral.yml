@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: gpeye
+      url-base: https://github.com/GPeye
+  projects:
+    - name: zmk-vfx-nice-view-urchin-peripheral
+      repo-path: urchin-peripheral-animation
+      remote: gpeye
+      revision: 8b79464acfa8bb4c668e53049ad28b57889f2fe1

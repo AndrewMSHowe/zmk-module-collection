@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: ergonautkb                         
+      url-base: https://github.com/ergonautkb
+  projects:
+    - name: zmk-keyboards-ergonautkb
+      repo-path: ergonautkb-zmk-module                 
+      remote: ergonautkb            
+      revision: 0baf6fb036595f4c16bde895b8804123e6b4cf0d
