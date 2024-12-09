@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: object1037
+      url-base: https://github.com/object1037
+  projects:
+    - name: zmk-keyboards-l4
+      remote: object1037
+      repo-path: L4-zmk-module
+      revision: 01e5d0df22946df3aa7cde04583af59dfc39944e

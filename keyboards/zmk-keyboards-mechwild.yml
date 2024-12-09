@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: lesshonor
+      url-base: https://github.com/lesshonor
+  projects:
+    - name: zmk-keyboards-mechwild
+      repo-path: mechwild-zmk-keyboards
+      remote: lesshonor
+      revision: ca13a5416d8aab6d1e5279f19eb6765c8340d120

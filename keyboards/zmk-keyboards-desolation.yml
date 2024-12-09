@@ -1,0 +1,8 @@
+manifest:
+  remotes:
+    - name: miketronic
+      url-base: https://github.com/miketronic
+  projects:
+    - name: zmk-keyboards-desolation
+      remote: miketronic
+      revision: ce7d6ff3463d509212ec8a49ec256edfe2a68da3

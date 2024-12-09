@@ -3,6 +3,7 @@ manifest:
     - name: grassfedreeve
       url-base: https://github.com/grassfedreeve/
   projects:
-    - name: zmk-keyboards-akohekohe
+    - name: zmk-keyboards-pueo
       remote: grassfedreeve
-      revision: 92aa917e5690505dbd0d9bbda80d03564985035d
+      repo-path: zmk-keyboards-pueo
+      revision: 98d82cc04dfac83b7bd3621d18f3a026eb4e9862
