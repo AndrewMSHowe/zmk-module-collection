@@ -1,0 +1,8 @@
+manifest:
+  remotes:
+    - name: rmuraglia
+      url-base: https://github.com/rmuraglia
+  projects:
+    - name: zmk-keyboards-menura
+      remote: rmuraglia
+      revision: 0b3d7d448bb3c2ea2b06ec60f91627684410c8a6
