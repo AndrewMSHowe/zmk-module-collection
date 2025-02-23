@@ -1,0 +1,9 @@
+manifest:
+  remotes:
+    - name: caksoylar
+      url-base: https://github.com/caksoylar/
+  projects:
+    - name: zmk-behavior-smart-toggle
+      remote: caksoylar
+      repo-path: zmk-smart-toggle
+      revision: fd05108600a66a88b9e03263cc132721d89b9ffb
