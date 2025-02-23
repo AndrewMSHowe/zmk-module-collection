@@ -3,6 +3,7 @@ manifest:
     - name: ssbb
       url-base: https://github.com/ssbb/
   projects:
-    - name: zmk-listeners
+    - name: zmk-feature-listeners
       remote: ssbb
+      repo-path: zmk-listeners
       revision: c240ceaf353d3138bea7695eef17049b7ade995b
