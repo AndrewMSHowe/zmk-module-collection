@@ -6,4 +6,4 @@ manifest:
     - name: zmk-vfx-rgbled-widget
       repo-path: zmk-rgbled-widget
       remote: caksoylar
-      revision: f207117aaa4ecad343aed7b7a2c19bbd635f8a7e
+      revision: fdcd7cac82a6c0cb1311bce9bc21ba2be4004019
