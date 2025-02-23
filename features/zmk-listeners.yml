@@ -1,0 +1,8 @@
+manifest:
+  remotes:
+    - name: ssbb
+      url-base: https://github.com/ssbb/
+  projects:
+    - name: zmk-listeners
+      remote: ssbb
+      revision: c240ceaf353d3138bea7695eef17049b7ade995b
