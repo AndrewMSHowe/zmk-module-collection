@@ -3,6 +3,6 @@ manifest:
     - name: badjeff
       url-base: https://github.com/badjeff
   projects:
-    - name: zmk-behavior-insomnia
+    - name: zmk-output-behavior-listener
       remote: badjeff
-      revision: 97b2115a2f46d285130fb5136c823bd1e3c56144
+      revision: d6f2f4c65b1c067d696e2d06d70602b7fde96951
